@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+My name is Vinicius de Souto, i'm a software engineer student.
+I love to solve problems, participate in challenges or code marathons.
 
-<!--
-**soutovnc/soutovnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiast of technologies in the javascript world, I have studied and worked with other languages like **Python, C, Java, PHP**.
+Currently focused on **Typescript, ReactJS, React Native and trying to master node.js**
 
-Here are some ideas to get you started:
+I love to have fun when programming, solving challenges, practicing new concepts or giving life to some silly project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: I like to study **software architectures, design patterns and clean code principles**.
+
+### :mailbox: Find me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soutovnc/)](https://www.linkedin.com/in/soutovnc/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdesouto@gmail.com)](mailto:viniciusdesouto@gmail.com)
