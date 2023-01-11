@@ -4,11 +4,11 @@
 - 🚀 | Looking for opportunities outside Brazil.
 - 💙 | In my spare time I like to read, run, plan trips!
 
- <div>
+<!--  <div>
   <a href="https://github.com/soutovnc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soutovnc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&layout=compact&langs_count=7&theme=react"/>
-</div>
+</div> -->
   
   ## Technologies
   
