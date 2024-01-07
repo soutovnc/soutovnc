@@ -37,7 +37,6 @@
 </div>
 
 ### 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soutovnc&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soutovnc&theme=graywhite&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <!-- <a href="http://www.github.com/soutovnc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=soutovnc&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br> -->
