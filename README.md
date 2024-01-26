@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&layout=compact&langs_count=7&theme=react"/>
 </div> --!>
   
-  ## Technologies
+## Technologies
   
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-Figma" height="30" width="40" src="./figma-original.svg">
@@ -25,7 +25,7 @@
   <img align="center" alt="vini-Git" height="30" width="40" src="./git-original-wordmark.svg">
 </div>
   
-  ##
+
 ### :mailbox: Find me
 <div> 
   <a href="https://instagram.com/soutovnc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,4 +39,3 @@
 ### 🚀 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soutovnc&theme=graywhite&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<a href="http://www.github.com/soutovnc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=soutovnc&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
