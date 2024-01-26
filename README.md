@@ -4,11 +4,11 @@
 - 🚀 | Looking for opportunities outside Brazil.
 - 💙 | In my spare time I like to read, run, plan trips!
 
-<!--  <div>
+<div>
   <a href="https://github.com/soutovnc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soutovnc&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&layout=compact&langs_count=7&theme=react"/>
-</div> -->
+</div>
   
   ## Technologies
   
@@ -39,4 +39,4 @@
 ### 🚀 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soutovnc&theme=graywhite&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<!-- <a href="http://www.github.com/soutovnc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=soutovnc&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br> -->
+<a href="http://www.github.com/soutovnc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=soutovnc&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
