@@ -32,7 +32,7 @@
 </div>
 
 ### 🚀 GitHub Stats:
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsoutovnc&label=visitors&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsoutovnc)
+<!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsoutovnc&label=visitors&countColor=%232ccce4&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsoutovnc) -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsoutovnc&label=visitors&countColor=%232ccce4&style=flat)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soutovnc&theme=graywhite&hide_border=false) 
