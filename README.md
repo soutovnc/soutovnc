@@ -1,7 +1,6 @@
 ## Hii! I'm Vinicius de Souto 
-- 💻 | I work with React and typescript.
-- :books: | I'm studying node.js and react native.
-- 🚀 | Looking for opportunities outside Brazil.
+- 💻 | I develop mobile and frontend solutions.
+- :books: | I'm like to constantly study.
 - 💙 | In my spare time I like to read, run, plan trips!
  
 ## Technologies
