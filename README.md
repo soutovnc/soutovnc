@@ -30,7 +30,8 @@
  
 </div>
 
-### 🚀 GitHub Stats:
+<!--    ### 🚀 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soutovnc&theme=graywhite&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soutovnc&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
